@@ -4,8 +4,8 @@
     </p>
     <h2>Screenshots</h2>
     <div class="screenshot">
-  <img width="300" height="570" alt="Screenshot 2023-06-10 at 12 45 23 AM" src="https://github.com/Aman7766/Greeting-App/assets/51900622/ebfe7ef7-8497-44e7-baab-5b2eb2b9a603">
-<img width="300" height="570" alt="Screenshot 2023-06-10 at 10 04 21 PM" src="https://github.com/Aman7766/Greeting-App/assets/51900622/2d6a75f5-85c9-4588-8dbd-b4bd24b402a2">
+  <img width="300" height="570" alt="Screenshot 2023-06-10 at 10 48 55 PM" src="https://github.com/Aman7766/counter-app-android/assets/51900622/a7f3419a-c264-4449-b8d6-f4a97f4b6a40">
+<img width="300" height="570" alt="Screenshot 2023-06-10 at 10 49 04 PM" src="https://github.com/Aman7766/counter-app-android/assets/51900622/92343a60-42bf-49ea-b51f-cfc51ad7f0b9">
 </div>
     <div class="screenshot">
  </div>
