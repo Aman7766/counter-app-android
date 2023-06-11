@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Counter App</string>
+    <string name="app_name1">The Counter App</string>
+    <string name="count">0</string>
+    <string name="show">Click me</string>
+
+</resources>
